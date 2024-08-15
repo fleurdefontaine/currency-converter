@@ -1,0 +1,15 @@
+node_modules/
+
+*.log
+
+.env
+
+dist/
+build/
+
+*.tmp
+*.swp
+*.swo
+
+.vscode/
+.idea/
